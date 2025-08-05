@@ -1,26 +1,27 @@
 # **Todo-list-App**
 A simple console-based To-Do List app built using Python.
 
-## 🚀** Features**
+## 🚀 Features
 - Add tasks
 - View tasks
 - Remove tasks
 - Stores tasks in a text file (`tasks.txt`) for persistence
 
-## 📁 **How to Run**
+## 📁 How to Run
 
 ```bash
 python todo.py
+```
 
-## 💾** Requirements**
+## 💾 Requirements
 Python 3.x
 
-## 📄 **File Structure**
+## 📄 File Structure
 
 todo.py         # Main app file
 tasks.txt       # Task storage (auto-created)
 
-## ✅** Example**
+## ✅ Example
 
 Choose an option:
 1. View Tasks
@@ -28,7 +29,7 @@ Choose an option:
 3. Remove Task
 4. Exit
 
-## **📸 Screenshot**
+## 📸 Screenshot
 
 Here's a sample run of the application:
 
