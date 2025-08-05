@@ -18,7 +18,7 @@ Python 3.x
 
 ## 📄 File Structure
 
-todo.py         # Main app file
+todo.py         # Main app file <br>
 tasks.txt       # Task storage (auto-created)
 
 ## ✅ Example
